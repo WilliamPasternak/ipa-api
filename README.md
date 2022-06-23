@@ -15,6 +15,6 @@ This API was built to provide characteristics abotu different beer styles. To us
 
 
 ## Optimizations
-Continue to add beer styles. 
-Add images to beer.
-Add additional information for each beer.
+*Continue to add beer styles. 
+*Add images to beer.
+*Add additional information for each beer.
