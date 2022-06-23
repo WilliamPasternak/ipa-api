@@ -28,7 +28,7 @@ app.get('/api/:beerType',(request,response)=> {
    }
    else{
        //
-       response.json(beer['duff'])
+       response.json(beers['duff'])
    }
 })
 
