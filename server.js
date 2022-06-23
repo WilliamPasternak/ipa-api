@@ -12,6 +12,8 @@ const beers = {
     'double india pale ale': {'perceived bitterness': '60-120', 'color': 'gold to amber', 'alcohol': '7.5-10%', 'flavor': 'American Pale Ale, Double IPA, English IPA', 'history': 'Born in the mid 1990s from the increasing popularity of hop-forward IPAs.', 'related styles': 'American IPA, American Barleywine'
 }
 }
+ 
+
 
 // If root requested, send index.html Look for it in the current directory (__dirname)
 app.get('/', (request,response)=>{
